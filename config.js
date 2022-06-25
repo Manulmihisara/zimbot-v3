@@ -37,7 +37,7 @@ global.APIKeys = {
 }
 
 // Other
-global.owner = ['94760069363','']
+global.owner = ['48 45 908 42 22','']
 global.premium = ['27634090203','918188019676']
 global.botname = 'Manul Official Bot INC'
 global.ownername = 'DRIPS'
